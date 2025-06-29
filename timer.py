@@ -1,4 +1,4 @@
-# Program to create a timer.
+# Program to create a Timer.
 import time
 
 
